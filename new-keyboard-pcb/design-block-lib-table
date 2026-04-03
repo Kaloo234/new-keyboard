@@ -1,4 +1,6 @@
 (design_block_lib_table
   (version 7)
   (lib (name "Kailh_PG1353_Hotswap.pretty")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/MX_V2-main/Kailh_PG1353_Hotswap.pretty")(options "")(descr ""))
+  (lib (name "tm-kicad-lib.pretty")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/tm-kicad-library-master/tm-kicad-lib.pretty")(options "")(descr ""))
+  (lib (name "Type-C.pretty-master")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/Type-C.pretty-master")(options "")(descr ""))
 )

@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/Type-C.pretty-master/Type-C.lib")(options "")(descr ""))
+  (lib (name "tm-kicad-lib")(type "Legacy")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/tm-kicad-library-master/tm-kicad-lib.lib")(options "")(descr ""))
 )
