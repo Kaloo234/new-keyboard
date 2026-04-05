@@ -4,4 +4,6 @@
   (lib (name "random-keyboard-parts.pretty-master")(type "KiCad")(uri "/Users/felixmorin/Documents/_New keyboard/random-keyboard-parts.pretty-master")(options "")(descr ""))
   (lib (name "tm-kicad-lib")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/tm-kicad-library-master/tm-kicad-lib.pretty")(options "")(descr ""))
   (lib (name "Type-C.pretty-master")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/Type-C.pretty-master")(options "")(descr ""))
+  (lib (name "pogo_conn_3_pins")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/POGO_CONN/3pins")(options "")(descr ""))
+  (lib (name "pogo_conn_4_pins")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/POGO_CONN/4pins")(options "")(descr ""))
 )
