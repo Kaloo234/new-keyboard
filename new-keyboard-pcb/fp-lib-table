@@ -6,4 +6,5 @@
   (lib (name "Type-C.pretty-master")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/Type-C.pretty-master")(options "")(descr ""))
   (lib (name "pogo_conn_3_pins")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/POGO_CONN/3pins")(options "")(descr ""))
   (lib (name "pogo_conn_4_pins")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/POGO_CONN/4pins")(options "")(descr ""))
+  (lib (name "pogo_connector_5_pins")(type "KiCad")(uri "/Users/felixmorin/Documents/GitHub/new-keyboard/POGO_CONN/pogo_connector_5_pins")(options "")(descr ""))
 )

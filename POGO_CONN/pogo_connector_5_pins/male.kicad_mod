@@ -1,0 +1,14 @@
+(module pogo_connector_5_pins (layer F.Cu) (tedit 5457CD9B)
+  (fp_text reference REF** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+
+  (fp_text value pogo_connector_5_pins (at 0 2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole rect (at 0 5.08) (size 1.5 1.5) (drill 1.0) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 0 2.54) (size 1.5 1.5) (drill 1.0) (layers *.Cu *.Mask F.SilkS))
+  (pad 3 thru_hole circle (at 0 0) (size 1.5 1.5) (drill 1.0) (layers *.Cu *.Mask F.SilkS))
+  (pad 4 thru_hole circle (at 0 -2.54) (size 1.5 1.5) (drill 1.0) (layers *.Cu *.Mask F.SilkS))
+  (pad 5 thru_hole circle (at 0 -5.08) (size 1.5 1.5) (drill 1.0) (layers *.Cu *.Mask F.SilkS))
+)
