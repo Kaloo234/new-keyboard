@@ -527,10 +527,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "GERBER_MAIN",
+      "plot": "GERBER_MAIN/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "3D/new-keyboard-pcb.stl",
       "svg": "",
       "vrml": ""
     },
