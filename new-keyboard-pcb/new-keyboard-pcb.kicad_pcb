@@ -13275,7 +13275,7 @@
 			(net 169 "Earth")
 			(pinfunction "SHIELD")
 			(pintype "input")
-			(uuid "6dadb419-ceaf-4460-aa77-b9f84599fee7")
+			(uuid "00074b5b-a6a6-462a-81fc-4ee795c7fe2c")
 		)
 		(pad "13" thru_hole oval
 			(at 4.32 2.6)
@@ -13286,7 +13286,7 @@
 			(net 169 "Earth")
 			(pinfunction "SHIELD")
 			(pintype "input")
-			(uuid "6dadb419-ceaf-4460-aa77-b9f84599fee7")
+			(uuid "627c4d54-fa33-4727-9c2f-3d376f4b59a6")
 		)
 		(pad "13" thru_hole oval
 			(at 4.32 6.78)
@@ -13297,7 +13297,7 @@
 			(net 169 "Earth")
 			(pinfunction "SHIELD")
 			(pintype "input")
-			(uuid "6dadb419-ceaf-4460-aa77-b9f84599fee7")
+			(uuid "2d865177-39b8-4680-a82b-221999ed835b")
 		)
 		(embedded_fonts no)
 		(model "/Users/felixmorin/Documents/GitHub/new-keyboard/Type-C.pretty-master/HRO  TYPE-C-31-M-12.step"
